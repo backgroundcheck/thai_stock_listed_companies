@@ -1,0 +1,1 @@
+Retrieves names and stock symbols of all companies listed on the Thai Stock Exchange. Note: this one only saves companies that are in the food sector but it can be easily amended to save all companies / companies from other sectors as well. 
